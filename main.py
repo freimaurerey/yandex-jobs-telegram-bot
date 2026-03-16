@@ -161,7 +161,7 @@ async def start_command(message: Message):
             [
                 InlineKeyboardButton(
                     text="GitHub",
-                    url="https://github.com/printsofjoe/yandex-jobs-telegram-bot",
+                    url="https://github.com/freimaurerey/yandex-jobs-telegram-bot",
                 )
             ]
         ]
